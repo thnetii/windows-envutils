@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "editorconfig.editorconfig",
-    "codezombiech.gitignore"
+    "codezombiech.gitignore",
+    "ms-vscode.powershell"
   ]
 }
