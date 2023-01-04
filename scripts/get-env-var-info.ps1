@@ -43,6 +43,6 @@ for ($i = 0; $i -lt $RawSegments.Count; $i++) {
         "Raw Value"      = $RawSegments[$i];
         "Expanded Value" = $ExpandSegments[$i];
         "Registry Key"   = $RegistryKey;
-        "Name"           = $Name
+        "Name"           = $Name;
     }
 }
